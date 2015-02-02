@@ -15,7 +15,7 @@ namespace ConsoleApplication1
                 if (chainLength > longestChain)
                 {
                     longestChain = chainLength;
-                    Console.WriteLine("chain length " + longestChain + " starting number " + i);
+                    Console.WriteLine("chain length " + longestChain + " starting numberx " + i);
                     bestStartingNumber = i;
                 }
             }
