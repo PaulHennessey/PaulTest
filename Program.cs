@@ -21,6 +21,7 @@ namespace ConsoleApplication1
             }
 
             Console.WriteLine(longestChain);
+
             Console.WriteLine(bestStartingNumber);
             Console.ReadLine();
         }
